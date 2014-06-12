@@ -1,5 +1,10 @@
 # Reproducible Research: Peer Assessment 1
 
+## This report is to study the object's daily walking activities by means of analysing the data collected through the personal activity monitoring device. It is the peer assessment assignments 1 for the Reproducible Research course from John Hopkinson University.
+
+## Author - Kewen chen - mikcolchen@hotmail.com
+
+**Built on R version 3.1.0 (2014-04-10) Platform: i386-w64-mingw32/i386 (32-bit), using Rstudio Version 0.98.507**
 
 ## Loading and preprocessing the data
 *1.Load the data from csv file;*
